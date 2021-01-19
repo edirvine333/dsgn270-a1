@@ -2,8 +2,6 @@
 
 *by Ed Irvine*
 
----
-
 The following is a critique of a static website for a Regina-based contractor named **Iles Electric**.  The site can be found at https://www.ileselectric.com.  The following criteria will be discussed:
 
 - site usability
